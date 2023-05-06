@@ -1,0 +1,45 @@
+.big{
+width: 700px;
+height: 500px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.logo{
+display: block;
+margin: 0 auto;
+vertical-align: middle;
+}
+.small{
+text-align: center;
+}
+.id{
+width: 400px;
+height: 40px;
+}
+.pwd{
+width: 400px;
+height: 40px;
+}
+.login{
+background-color: #FFC000;
+font-size: 12pt;
+color: #FFFFFF;
+border: #FFC000;
+width: 408px;
+height: 46px;
+}
+.small2{
+text-align: center;
+}
+.fail{
+color: red;
+}
+.sign{
+background-clolr: #FFFF00;
+font-size: 12pt;
+color: #000000;
+width: 408px;
+height: 46px;
+}

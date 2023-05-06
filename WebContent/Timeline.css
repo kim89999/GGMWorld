@@ -1,0 +1,20 @@
+.body {
+	align: center;
+}
+.over {
+	align: center;
+	width: 800px;
+	height: 570px;
+	overflow: scroll;
+}
+.t1 {
+	 margin-left: auto;
+	 margin-right: auto;
+	 border: 1px solid #444444;
+	 border-collapse: collapse;
+	 height: 570px;
+}
+th, td {
+    border: 1px solid #444444;
+    padding: 10px;
+}

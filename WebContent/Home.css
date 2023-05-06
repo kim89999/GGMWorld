@@ -1,0 +1,62 @@
+.GGM {text-align: center; margin-top: 20px;}
+.GGM1 {animation: motion 0.3s linear 0s infinite alternate; margin-top: 0;}
+.back{
+	z-index : 4;
+}
+@keyframes motion {
+	0% {margin-top: 0px;}
+	100% {margin-top: 10px;}}
+div #GGM{
+	position : absolute;
+	left : 40px;
+	top:445px;
+	z-index : 4;
+}
+
+.GGMleft {text-align: center; margin-top: 20px;}
+.GGM2 {animation: motion 0.3s linear 0s infinite alternate; margin-top: 0;}
+@keyframes motion {
+	0% {margin-top: 0px;}
+	80% {margin-top: 20px;}}
+div #GGMleft{
+	position : absolute;
+	left : 160px;
+	top : 455px;
+	z-index : 4;
+}
+
+.GGMtwo {text-align: center; margin-top: 20px;}
+.GGM3 {animation: motion 0.3s linear 0s infinite alternate; margin-top: 0;}
+@keyframes motion {
+	0% {margin-top: 0px;}
+	100% {margin-top: 10px;}}
+div #GGMtwo{
+	position : absolute;
+	left : 280px;
+	top:445px;
+	z-index : 4;
+}
+
+.GGMthree {text-align: center; margin-top: 20px;}
+.GGM4 {animation: motion 0.3s linear 0s infinite alternate; margin-top: 0;}
+@keyframes motion {
+	0% {margin-top: 0px;}
+	100% {margin-top: 10px;}}
+div #GGMthree{
+	position : absolute;
+	left : 380px;
+	top:455px;
+	z-index : 4;
+}
+
+.GGMleft2 {text-align: center; margin-top: 20px;}
+.GGM5 {animation: motion 0.3s linear 0s infinite alternate; margin-top: 0;}
+@keyframes motion {
+	0% {margin-top: 0px;}
+	100% {margin-top: 10px;}}
+div #GGMleft2{
+	position : absolute;
+	left : 460px;
+	top:450px;
+	z-index : 4;
+}

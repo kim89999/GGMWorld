@@ -1,0 +1,48 @@
+.big {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width : 1300px;
+	height : 700px;
+}
+.top{
+	width : 600px;
+	height : 100px;
+	position : absolute;
+	transform: translate(-50%, -50%);
+	left : 900px;
+	top : 40px;
+	z-index : 5;
+}
+.bgm{
+	width : 300px;
+	height : 500px;
+	position : absolute;
+	left : 940px;
+	top : 65px;
+	z-index : 6;
+}
+.content{
+	width : 800px;
+	height : 570px;
+	position : absolute;
+	top : 65px;
+	left : 60px;
+	z-index : 3;
+}
+#img{
+	background-color : #FFC000;
+	color : white
+}
+
+#background{
+	position : absolute;
+	z-index : 1;
+}
+#areaMain{
+	width : 800px;
+	height : 570px;
+}
+	
+}
